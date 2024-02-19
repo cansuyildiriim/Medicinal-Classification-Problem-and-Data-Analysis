@@ -1,1 +1,3 @@
-# Medicinal-Classification-Problem-and-Data-Analysis
+# Medicinal Classification Problem and Data Analysis                                            
+
+The main objective of the project was to solve a pharmaceutical classification problem using supervised machine learning techniques. In this context, we applied various supervised machine learning methods in the processes of data analysis and model creation. We used data analysis and preprocessing techniques to explore and prepare the dataset. We evaluated the model's success by using various performance metrics. This project provided a valuable opportunity to address the pharmaceutical classification problem while enhancing our practical skills in supervised machine learning.The explanations will be updated soon in English.
